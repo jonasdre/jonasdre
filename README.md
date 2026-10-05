@@ -61,11 +61,19 @@ help agents explore relationships and reduce repeated discovery work.
 I build REST APIs and integrate external services across business,
 commerce and AI applications.
 
-My experience includes Amazon SP-API, Amazon Ads API, Amazon Marketing
-Stream, OpenAI, Microsoft Graph, Firebase, Supabase and Resend.
+My integration experience includes OpenAI, Microsoft Graph, Firebase,
+Supabase, Resend, Amazon SP-API, Amazon Ads API and Amazon Marketing Stream.
 
 My work includes OAuth2-based integrations, email delivery, webhooks,
 data validation and automated workflows.
+
+## Cloud & tooling
+
+I work with cloud platforms and tools for deployment, monitoring,
+security, search visibility and commerce.
+
+My toolkit includes AWS, Vercel, Cloudflare, GitLab, Sentry,
+Aikido, Google Search Console, IONOS, Shopify and Mollie.
 
 ## Engineering principles
 
