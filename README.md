@@ -50,16 +50,19 @@ I own the architecture, product decisions and quality of the final result.
 I build an AI-accessible second brain around project documentation,
 architecture decisions and lessons learned.
 
-I use linked knowledge in Obsidian, knowledge graphs and vector retrieval
-with tools such as Pinecone to make relevant information available to agents.
+I use linked knowledge in Obsidian, knowledge graphs and retrieval
+workflows to make relevant information available to agents.
 
 The goal is to preserve useful context across tasks and projects,
 help agents explore relationships and reduce repeated discovery work.
 
 ## APIs & integrations
 
-I build REST APIs and connect applications to external services,
-including OpenAI, Microsoft Graph, Firebase, Supabase and Resend.
+I build REST APIs and integrate external services across business,
+commerce and AI applications.
+
+My experience includes Amazon SP-API, Amazon Ads API, Amazon Marketing
+Stream, OpenAI, Microsoft Graph, Firebase, Supabase and Resend.
 
 My work includes OAuth2-based integrations, email delivery, webhooks,
 data validation and automated workflows.
