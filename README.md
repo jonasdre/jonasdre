@@ -1,51 +1,43 @@
 # Hi, I'm Jonas 👋
 
-Senior Full-Stack Engineer building and owning production-ready products end-to-end.
+Senior Full-Stack Engineer with a background in enterprise engineering
+and independently building software products.
 
-## What I do
+I enjoy owning the full development process — from understanding
+the business problem to architecture, implementation, design and deployment.
 
-- Full-stack product development
-- AI-native engineering with coding agents
-- System and software architecture
-- API integrations and backend systems
-- Design systems and dashboard interfaces
-- CI/CD, deployment and production ownership
+## What I build
 
-## AI-native development
+- Full-stack applications and business platforms
+- Dashboards, administration tools and role-based workflows
+- Design systems and reusable UI components
+- APIs, integrations and automated document workflows
+- Authentication, data models and access controls
 
-I use AI as an engineering multiplier, not as a replacement for engineering judgement.
+## How I work with AI
 
-My workflows include:
+I use AI as a co-developer and build reusable workflows around coding agents.
 
-- agent orchestration
-- reusable skills and instructions
-- MCP integrations
-- architecture-first implementation
-- automated validation and testing
-- human review of critical decisions
+My setup combines project instructions, specialized agents, reusable
+skills and MCP integrations. I define the architecture, scope tasks,
+review results and validate changes through automated checks.
 
-## Selected projects
-
-### Portal
-
-End-to-end SaaS product developed independently with AI-assisted engineering workflows.
-
-**Ownership:** Architecture, frontend, backend, UI/UX, deployment and technical decisions  
-**Stack:** Next.js · TypeScript · React · APIs · SQL  
-**Focus:** Product architecture, reusable components, dashboards and production readiness
-
-### Crous
-
-Full-stack application built independently from concept to production.
-
-**Ownership:** End-to-end product development, architecture, UI/UX and deployment  
-**Stack:** Next.js · TypeScript · React · APIs  
-**Focus:** AI-assisted development, component systems and maintainable product architecture
+These checks cover code quality, types, design consistency, accessibility
+contrasts and database access rules.
 
 ## Engineering principles
 
-- Ship small, validate early, iterate fast
-- Prefer simple architectures over unnecessary complexity
-- Automate repetitive engineering work
-- Keep critical decisions deterministic and reviewable
-- Treat observability, testing and maintainability as part of the product
+- Keep architecture simple and decisions explicit
+- Build consistent interfaces, including loading and error states
+- Test critical workflows and permissions
+- Make failures observable and maintain documentation
+- Ship in small steps and improve through feedback
+
+## Tech
+
+TypeScript · React · Next.js · SQL · Supabase · Firebase
+MUI · Playwright · GitLab CI/CD
+
+---
+
+My project repositories are hosted on GitLab.
