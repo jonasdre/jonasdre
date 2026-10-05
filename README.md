@@ -16,6 +16,46 @@ integrations and deployment workflows.
 - Authentication, authorization and database-backed applications
 - AI-powered features using LLM APIs
 
+## AI-native engineering
+
+I work with ChatGPT, OpenAI Codex and Claude Code as co-developers
+across planning, implementation, debugging and review.
+
+Beyond individual prompts, I build a reusable development environment
+with custom agents, shared engineering standards and automated checks.
+
+My workflow combines:
+
+- **Agent harness:** instructions, context, tools, permissions
+  and validation around coding agents
+- **Agent orchestration:** coordinating specialized agents with
+  defined responsibilities and focused tasks
+- **Custom agents:** agents configured for implementation, analysis,
+  reviews and recurring engineering tasks
+- **Skills:** combining community skills with skills I build
+  and adapt for my own workflows
+- **MCP integrations:** connecting agents to external tools,
+  services and data sources
+- **RAG:** retrieving relevant information from indexed sources
+  to support responses with project-specific knowledge
+- **Context engineering:** selecting the documentation, codebase context
+  and constraints needed for each task
+- **Quality gates:** automated checks for types, tests, design consistency
+  and access controls, alongside human review
+
+I own the architecture, product decisions and quality of the final result.
+
+## Knowledge & memory
+
+I build an AI-accessible second brain around project documentation,
+architecture decisions and lessons learned.
+
+I use linked knowledge in Obsidian, knowledge graphs and vector retrieval
+with tools such as Pinecone to make relevant information available to agents.
+
+The goal is to preserve useful context across tasks and projects,
+help agents explore relationships and reduce repeated discovery work.
+
 ## APIs & integrations
 
 I build REST APIs and connect applications to external services,
@@ -23,25 +63,6 @@ including OpenAI, Microsoft Graph, Firebase, Supabase and Resend.
 
 My work includes OAuth2-based integrations, email delivery, webhooks,
 data validation and automated workflows.
-
-## AI-native engineering
-
-I use AI as a co-developer across planning, implementation and review.
-I define the architecture, coordinate the work and remain responsible
-for technical decisions and product quality.
-
-My development setup combines:
-
-- **Agent harness:** project instructions, context, tools, permissions
-  and automated validation around coding agents
-- **Agent orchestration:** focused tasks, specialized agents and
-  coordinated implementation and review
-- **Skills:** reusable instructions and workflows for recurring tasks
-- **MCP integrations:** connecting agents to external tools and data sources
-- **Context engineering:** providing relevant documentation, codebase
-  context and constraints for each task
-- **Quality gates:** type checks, tests, design-system validation
-  and human review of critical decisions
 
 ## Engineering principles
 
