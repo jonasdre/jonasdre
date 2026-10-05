@@ -1,19 +1,28 @@
 # Hi, I'm Jonas 👋
 
-I'm a Senior Full-Stack Engineer with a background in enterprise engineering
-and independently building software products.
+I'm a Senior Full-Stack Engineer with experience in enterprise software,
+business applications and independently building products.
 
-I enjoy taking ownership of the full development process — from understanding
-the business problem to architecture, backend, design systems, dashboards,
-deployment and maintenance.
+I enjoy owning the full development process — understanding the business
+problem, planning the architecture and building the backend, interfaces,
+integrations and deployment workflows.
 
 ## What I build
 
 - Full-stack applications and business platforms
 - Dashboards, administration tools and role-based workflows
 - Design systems and reusable UI components
-- APIs, integrations and automated document workflows
-- Authentication, data models and access controls
+- APIs, third-party integrations and document automation
+- Authentication, authorization and database-backed applications
+- AI-powered features using LLM APIs
+
+## APIs & integrations
+
+I build REST APIs and connect applications to external services,
+including OpenAI, Microsoft Graph, Firebase, Supabase and Resend.
+
+My work includes OAuth2-based integrations, email delivery, webhooks,
+data validation and automated workflows.
 
 ## AI-native engineering
 
@@ -44,8 +53,15 @@ My development setup combines:
 
 ## Tech
 
-TypeScript · React · Next.js · SQL · Supabase · Firebase  
-MUI · Playwright · Git · GitLab
+**Languages:** TypeScript · Java · SQL · Python
+
+**Frontend:** React · Next.js · Angular · MUI · Storybook
+
+**Backend & data:** Spring Boot · NestJS · Django · PostgreSQL · Supabase · Firebase
+
+**Cloud & delivery:** AWS · Docker · Kubernetes · GitLab CI/CD · Argo CD
+
+**Testing & quality:** Playwright · Selenium · JUnit · SonarQube
 
 ---
 
