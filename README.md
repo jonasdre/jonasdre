@@ -1,7 +1,6 @@
 # Hi, I'm Jonas 👋
 
-Senior Full-Stack Engineer focused on building and owning
-production-ready products end-to-end.
+Senior Full-Stack Engineer building and owning production-ready products end-to-end.
 
 ## What I do
 
@@ -14,9 +13,10 @@ production-ready products end-to-end.
 
 ## AI-native development
 
-I use AI as an engineering multiplier rather than a code generator.
+I use AI as an engineering multiplier, not as a replacement for engineering judgement.
 
 My workflows include:
+
 - agent orchestration
 - reusable skills and instructions
 - MCP integrations
@@ -27,14 +27,25 @@ My workflows include:
 ## Selected projects
 
 ### Portal
-Short explanation of what the product does.
 
-**Ownership:** Architecture, UI/UX, backend, deployment  
-**Stack:** Next.js · TypeScript · ...  
-**Highlights:** ...
+End-to-end SaaS product developed independently with AI-assisted engineering workflows.
+
+**Ownership:** Architecture, frontend, backend, UI/UX, deployment and technical decisions  
+**Stack:** Next.js · TypeScript · React · APIs · SQL  
+**Focus:** Product architecture, reusable components, dashboards and production readiness
 
 ### Crous
-Short explanation.
 
-**Ownership:** End-to-end product development  
-**Stack:** ...
+Full-stack application built independently from concept to production.
+
+**Ownership:** End-to-end product development, architecture, UI/UX and deployment  
+**Stack:** Next.js · TypeScript · React · APIs  
+**Focus:** AI-assisted development, component systems and maintainable product architecture
+
+## Engineering principles
+
+- Ship small, validate early, iterate fast
+- Prefer simple architectures over unnecessary complexity
+- Automate repetitive engineering work
+- Keep critical decisions deterministic and reviewable
+- Treat observability, testing and maintainability as part of the product
